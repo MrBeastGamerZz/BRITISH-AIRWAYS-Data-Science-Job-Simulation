@@ -243,14 +243,10 @@ Load CSV (50,000 rows)
 BRITISH-AIRWAYS-Data-Science-Job-Simulation/
 │
 ├── Lounge Lookup table/
-│   ├── BA_Lounge_Eligibility_Completed.xlsx   ← Lookup table + justification
 │   └── task1_analysis.ipynb                   ← Python EDA + groupby code
 │
 ├── Booking Analysis/
-│   ├── task2_model.ipynb                      ← Full ML pipeline
-│   ├── feature_importance.png                 ← Feature importance chart
-│   ├── evaluation_charts.png                  ← ROC curve + confusion matrix
-│   └── business_insights.png                  ← 6 business analysis charts
+│   └── task2_model.ipynb                      ← Full ML pipeline
 │
 ├── BA_Booking_Prediction_Model.pptx           ← 6-slide executive summary
 ├── certificates/                              ← Completion certificate
