@@ -327,7 +327,7 @@ This simulation reinforced my direction toward **applied data science** roles in
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/manjunathareddyn/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   &nbsp;
