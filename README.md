@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Field-Data%20Science-E01937?style=flat-square" alt="Data Science">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Status-Completed-28a745?style=flat-square" alt="Completed">
-  <img src="https://img.shields.io/badge/Duration-~4%20hours-lightgrey?style=flat-square" alt="Duration">
 </p>
 
 ---
@@ -30,7 +29,6 @@
 - [How My Thinking Changed](#how-my-thinking-changed)
 - [What I Would Do Differently](#what-i-would-do-differently)
 - [Key Learnings & Reflections](#key-learnings--reflections)
-- [Career Goals](#career-goals)
 - [Connect](#connect)
 
 ---
@@ -57,6 +55,8 @@ Across two tasks, I worked on genuine business problems faced by BA's **Airport 
 | **Location** | Bengaluru, Karnataka, India |
 | **Certificate** | [View Certificate](certificates/) |
 | **Simulation Link** | [The Forage — BA Data Science](https://www.theforage.com/simulations/british-airways/data-science-yqoz) |
+
+> ⚠️ Per Forage's referencing policy, this is listed as a **virtual experience / extracurricular activity** — not work or internship experience. [View Policy](https://cdn-assets.theforage.com/Forage+Referencing+Policy+V5.pdf)
 
 ---
 
@@ -249,7 +249,6 @@ BRITISH-AIRWAYS-Data-Science-Job-Simulation/
 │   └── task2_model.ipynb                      ← Full ML pipeline
 │
 ├── BA_Booking_Prediction_Model.pptx           ← 6-slide executive summary
-├── certificates/                              ← Completion certificate
 └── README.md                                  ← This file
 ```
 
@@ -310,16 +309,6 @@ Real booking data is never balanced — only 15% of sessions result in a booking
 
 ---
 
-## Career Goals
-
-This simulation reinforced my direction toward **applied data science** roles in industries where data directly influences operational decisions — aviation, logistics, e-commerce, or financial services. I'm specifically interested in roles involving:
-
-- Predictive modelling on behavioural/transactional data
-- Business intelligence and demand forecasting
-- End-to-end pipeline development from raw data to executive output
-
----
-
 ## Connect
 
 <p>
@@ -330,14 +319,12 @@ This simulation reinforced my direction toward **applied data science** roles in
   <a href="https://github.com/MrBeastGamerZz">
     <img src="https://img.shields.io/badge/GitHub-MrBeastGamerZz-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-FF5722?style=flat-square" alt="Location">
 </p>
 
 ---
 
 <p align="center">
-  <sub>British Airways Data Science Job Simulation · The Forage · May 2026</sub><br>
+  <sub>British Airways Data Science Job Simulation · The Forage · April 2026</sub><br>
   <sub>This simulation was completed independently as part of a structured job-readiness programme.</sub>
 </p>
 
