@@ -56,7 +56,6 @@ Across two tasks, I worked on genuine business problems faced by BA's **Airport 
 | **Certificate** | [View Certificate](certificates/) |
 | **Simulation Link** | [The Forage — BA Data Science](https://www.theforage.com/simulations/british-airways/data-science-yqoz) |
 
-> ⚠️ Per Forage's referencing policy, this is listed as a **virtual experience / extracurricular activity** — not work or internship experience. [View Policy](https://cdn-assets.theforage.com/Forage+Referencing+Policy+V5.pdf)
 
 ---
 
